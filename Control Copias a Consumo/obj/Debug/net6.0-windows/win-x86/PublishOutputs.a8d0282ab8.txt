@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Downloads\Control Copias a Consumo.exe
+C:\Users\LENOVO\Downloads\Control Copias a Consumo.dll
+C:\Users\LENOVO\Downloads\Control Copias a Consumo.deps.json
+C:\Users\LENOVO\Downloads\Control Copias a Consumo.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Control Copias a Consumo.pdb
+C:\Users\LENOVO\Downloads\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\sni.dll
