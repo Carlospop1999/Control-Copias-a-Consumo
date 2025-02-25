@@ -1,0 +1,11 @@
+C:\Users\LENOVO\OneDrive\Escritorio\Control Copias a Consumo.exe
+C:\Users\LENOVO\OneDrive\Escritorio\Control Copias a Consumo.dll
+C:\Users\LENOVO\OneDrive\Escritorio\Control Copias a Consumo.deps.json
+C:\Users\LENOVO\OneDrive\Escritorio\Control Copias a Consumo.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Escritorio\Control Copias a Consumo.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\System.Data.SqlClient.dll
+C:\Users\LENOVO\OneDrive\Escritorio\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\OneDrive\Escritorio\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\OneDrive\Escritorio\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\OneDrive\Escritorio\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\OneDrive\Escritorio\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
