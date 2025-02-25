@@ -1,0 +1,83 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <RootNamespace>Control_Copias_A_Consumo</RootNamespace>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+    <AssemblyName>Control Copias a Consumo</AssemblyName>
+    <ImportedNamespaces>ClosedXML=False,ClosedXML.Attributes=False,ClosedXML.Excel=False,ClosedXML.Excel.CalcEngine=False,ClosedXML.Excel.CalcEngine.Functions=False,ClosedXML.Excel.Drawings=False,ClosedXML.Excel.Exceptions=False,ClosedXML.Graphics=False,ClosedXML.Parser=False,Control_Copias_A_Consumo=False,Control_Copias_A_Consumo.My=False,Control_Copias_A_Consumo.My.Resources=False,DocumentFormat.OpenXml=False,Microsoft.Data.Sql=False,Microsoft.Data.SqlClient=False,System.Data=False,System.Data.Sql=False,System.Data.SqlClient=False,System.Data.SqlTypes=False,System.Drawing=False,System.IO=False,System.Runtime=False,System.Security=False,System.Text=False,System.Windows.Forms=False,Microsoft.VisualBasic=True,System=True,System.Collections=True,System.Collections.Generic=True,System.Diagnostics=True,System.Linq=True,System.Xml.Linq=True,System.Threading.Tasks=True,Control Copias A Consumo=True</ImportedNamespaces>
+    <NuGetAuditMode>all</NuGetAuditMode>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Import Include="ClosedXML" />
+    <Import Include="ClosedXML.Attributes" />
+    <Import Include="ClosedXML.Excel" />
+    <Import Include="ClosedXML.Excel.CalcEngine" />
+    <Import Include="ClosedXML.Excel.CalcEngine.Functions" />
+    <Import Include="ClosedXML.Excel.Drawings" />
+    <Import Include="ClosedXML.Excel.Exceptions" />
+    <Import Include="ClosedXML.Graphics" />
+    <Import Include="ClosedXML.Parser" />
+    <Import Include="Control_Copias_A_Consumo" />
+    <Import Include="Control_Copias_A_Consumo.My" />
+    <Import Include="Control_Copias_A_Consumo.My.Resources" />
+    <Import Include="DocumentFormat.OpenXml" />
+    <Import Include="Microsoft.Data.Sql" />
+    <Import Include="Microsoft.Data.SqlClient" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.Sql" />
+    <Import Include="System.Data.SqlClient" />
+    <Import Include="System.Data.SqlTypes" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.IO" />
+    <Import Include="System.Runtime" />
+    <Import Include="System.Security" />
+    <Import Include="System.Text" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.104.2" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Update="My Project\Resources.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="ActualizarCant.vb" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\LENOVO\source\repos\Control Copias A Consumo\Control Copias A Consumo\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ActualizarCant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="alta almacen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ayudas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAJA ALMACEN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAJA USUARIOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAJAS CLIENTES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CLIENTES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CONSULTA ALMACEN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EDITAR ALMACEN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EDITAR USUARIOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EQUIPOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MENU CLIENTES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RECcontraseña.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
