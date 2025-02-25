@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Downloads\Proyecto\Control Copias a Consumo.pdb
+C:\Users\LENOVO\Downloads\Proyecto\D3DCompiler_47_cor3.dll
+C:\Users\LENOVO\Downloads\Proyecto\PenImc_cor3.dll
+C:\Users\LENOVO\Downloads\Proyecto\PresentationNative_cor3.dll
+C:\Users\LENOVO\Downloads\Proyecto\vcruntime140_cor3.dll
+C:\Users\LENOVO\Downloads\Proyecto\wpfgfx_cor3.dll
+C:\Users\LENOVO\Downloads\Proyecto\sni.dll
+C:\Users\LENOVO\Downloads\Proyecto\Control Copias a Consumo.exe
